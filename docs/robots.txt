@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tiprun.homes/sitemap.xml
